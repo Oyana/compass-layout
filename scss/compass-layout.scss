@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@import "compass/css3";
+@import "compass";
+
+$mainFont: "Arial";
+$titleFont: "Arial";
+$remInit: 10px;
+$baseFontSize: 1.6rem;
+$bodyBackground: white;
+
+@import "_layout-mixin";
+@import "_layout";
